@@ -364,20 +364,6 @@ I have experience working not only on application code, but also on the infrastr
 
 ---
 
-# 📚 Currently Exploring
-
-* Advanced backend architecture
-* Distributed systems
-* Cloud infrastructure
-* Mobile application deployment
-* Real-time communication
-* Kubernetes
-* System observability
-* Scalable microservice architectures
-* Mobile CI/CD and release automation
-
----
-
 # 🤝 Professional Philosophy
 
 > **Build software that solves real problems, keep the architecture maintainable, and make systems reliable in production.**
