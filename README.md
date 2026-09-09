@@ -34,6 +34,7 @@ I enjoy taking a system from an initial business requirement and turning it into
 * **Node.js**
 * **Express.js**
 * **TypeScript**
+* **JavaScript**
 * **PHP**
 * **Laravel**
 * **REST API Development**
@@ -68,7 +69,7 @@ I enjoy taking a system from an initial business requirement and turning it into
 * Indexing
 * Query optimization
 * Transactions
-* Migrations
+* Database migrations
 * Stored procedures & database functions
 
 ### NoSQL & Distributed Data
@@ -149,16 +150,16 @@ I enjoy taking a system from an initial business requirement and turning it into
 
 * **Git**
 * **GitHub**
-* GitHub Actions
+* **GitHub Actions**
 * Branching strategies
 * Pull requests
 * Code reviews
 * Repository management
 * Git conflict resolution
-* Postman
-* Swagger / OpenAPI
-* VS Code
-* Android Studio
+* **Postman**
+* **Swagger / OpenAPI**
+* **VS Code**
+* **Android Studio**
 
 ---
 
@@ -254,8 +255,6 @@ A mobile and backend platform designed around family communication, periodic saf
 ## 🛡️ Claims Management System
 
 A business workflow platform designed to support the processing, review, and approval of claims.
-
-The system included structured approval workflows and role-based access to support organizational decision-making.
 
 ### Key Contributions
 
@@ -390,6 +389,8 @@ I believe good software engineering is not only about writing code. It is about 
 # 📫 Connect With Me
 
 * 💼 GitHub: [Symon-kalola](https://github.com/Symon-kalola)
+* 📧 Email: **[nyirendasymon124@gmai.com](mailto:nyirendasymon124@gmai.com)**
+* 📱 WhatsApp: **+265 882 775 1360**
 * 🌍 Malawi
 
 ---
